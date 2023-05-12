@@ -8,7 +8,7 @@
             "max_int": "",
             
             "is_app_key": "19f41d6dd",
-            "is_ban": "",
+            "is_ban": "DefaultBanner",
             "is_int": "DefaultInterstitial",
             
             "admob_ban": "ca-app-pub-3940256099942544/6300978111",
